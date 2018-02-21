@@ -1,0 +1,1 @@
+France -> http://www.wikidata.org/entity/Q142 -> France (score: 0.8492717668376174)-@-France -> http://www.wikidata.org/entity/Q142 -> France (score: 0.8492717668376174)-@-France -> http://www.wikidata.org/entity/Q142 -> France (score: 0.8492717668376174)-@-Channing Tatum -> http://www.wikidata.org/entity/Q212064 -> Channing Tatum (score: 1.0)-@-

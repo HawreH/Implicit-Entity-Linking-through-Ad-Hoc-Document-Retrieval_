@@ -1,0 +1,1 @@
+Cruise -> http://www.wikidata.org/entity/Q37079 -> Tom Cruise (score: 0.5205147491072836)-@-Tom -> http://www.wikidata.org/entity/Q37079 -> Tom Cruise (score: 0.09690445969035968)-@-

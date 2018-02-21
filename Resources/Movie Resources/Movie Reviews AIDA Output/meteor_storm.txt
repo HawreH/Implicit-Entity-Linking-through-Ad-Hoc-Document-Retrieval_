@@ -1,0 +1,1 @@
+CON UN -> null -> ? (score: null)-@-USA -> http://www.wikidata.org/entity/Q30 -> United States (score: 0.15743712366101667)-@-San Francisco -> http://www.wikidata.org/entity/Q62 -> San Francisco (score: 0.6688552299337663)-@-Michael Trucco -> http://www.wikidata.org/entity/Q635974 -> Michael Trucco (score: 1.0)-@-

@@ -1,0 +1,1 @@
+Tom Cruise -> http://www.wikidata.org/entity/Q37079 -> Tom Cruise (score: 1.0)-@-Eric Heisserer -> http://www.wikidata.org/entity/Q5386707 -> Eric Heisserer (score: 1.0)-@-Brian Tyler -> http://www.wikidata.org/entity/Q251144 -> Brian Tyler (score: 0.9803857926696798)-@-ACDC -> http://www.wikidata.org/entity/Q27593 -> AC/DC (score: 0.9979187184331986)-@-

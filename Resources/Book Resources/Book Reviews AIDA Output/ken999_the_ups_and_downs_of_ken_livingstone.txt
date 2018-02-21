@@ -1,0 +1,1 @@
+Hosken -> http://www.wikidata.org/entity/Q16017428 -> Fran Hosken (score: 1.0)-@-Livingstone -> http://www.wikidata.org/entity/Q220723 -> Ken Livingstone (score: 0.3753499796812733)-@-Jeremy Corbyn -> http://www.wikidata.org/entity/Q291169 -> Jeremy Corbyn (score: 1.0)-@-Labour -> http://www.wikidata.org/entity/Q9630 -> Labour Party (UK) (score: 0.22693662391507843)-@-

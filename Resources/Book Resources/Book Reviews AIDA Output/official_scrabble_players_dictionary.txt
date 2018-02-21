@@ -1,0 +1,1 @@
+Mike -> null -> ? (score: null)-@-Karla -> http://www.wikidata.org/entity/Q143945 -> Carla Bruni (score: 0.18938931957110416)-@-Lynette -> http://www.wikidata.org/entity/Q508703 -> Lynette Fromme (score: 0.1396352269475596)-@-
