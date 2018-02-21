@@ -1,1 +1,0 @@
-Kara-Tur -> http://www.wikidata.org/entity/Q3192885 -> Kara-Tur (score: 1.0)-@-Rokugan -> http://www.wikidata.org/entity/Q3439896 -> Rokugan (score: 1.0)-@-Rokugan -> http://www.wikidata.org/entity/Q3439896 -> Rokugan (score: 1.0)-@-Rokugan -> http://www.wikidata.org/entity/Q3439896 -> Rokugan (score: 1.0)-@-

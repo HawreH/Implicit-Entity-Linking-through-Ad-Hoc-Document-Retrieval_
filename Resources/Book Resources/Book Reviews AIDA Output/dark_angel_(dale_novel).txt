@@ -1,1 +1,0 @@
-Sydney -> http://www.wikidata.org/entity/Q3130 -> Sydney (score: 0.23469886173694224)-@-Sydney -> http://www.wikidata.org/entity/Q3130 -> Sydney (score: 0.23469886173694224)-@-Canberra -> http://www.wikidata.org/entity/Q3114 -> Canberra (score: 0.8455933268400971)-@-

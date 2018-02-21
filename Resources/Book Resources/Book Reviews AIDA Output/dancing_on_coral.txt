@@ -1,1 +1,0 @@
-Sydney -> http://www.wikidata.org/entity/Q104049 -> Sidney Poitier (score: 0.14210300391104674)-@-US -> null -> ? (score: null)-@-Tom -> http://www.wikidata.org/entity/Q2263 -> Tom Hanks (score: 0.08735566921448355)-@-Tom -> http://www.wikidata.org/entity/Q2263 -> Tom Hanks (score: 0.08735566921448355)-@-Donna Bird -> null -> ? (score: null)-@-

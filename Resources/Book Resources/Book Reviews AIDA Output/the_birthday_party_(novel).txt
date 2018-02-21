@@ -1,1 +1,0 @@
-Aristotle Onassis -> http://www.wikidata.org/entity/Q180455 -> Aristotle Onassis (score: 1.0)-@-Onassis -> http://www.wikidata.org/entity/Q180455 -> Aristotle Onassis (score: 0.5818967345516062)-@-Karnezis -> http://www.wikidata.org/entity/Q179457 -> Orestis Karnezis (score: 1.0)-@-David Golder -> null -> ? (score: null)-@-

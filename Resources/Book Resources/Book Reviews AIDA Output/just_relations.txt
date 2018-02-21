@@ -1,1 +1,0 @@
-Rodney Hall -> http://www.wikidata.org/entity/Q2161185 -> Rodney Hall (writer) (score: 1.0)-@-Salman Rushdie -> http://www.wikidata.org/entity/Q44306 -> Salman Rushdie (score: 1.0)-@-Rodney Hall -> http://www.wikidata.org/entity/Q2161185 -> Rodney Hall (writer) (score: 1.0)-@-Salman Rushdie -> http://www.wikidata.org/entity/Q44306 -> Salman Rushdie (score: 1.0)-@-

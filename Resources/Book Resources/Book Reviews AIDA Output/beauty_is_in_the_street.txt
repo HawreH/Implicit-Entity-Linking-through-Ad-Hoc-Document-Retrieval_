@@ -1,1 +1,0 @@
-Paris -> http://www.wikidata.org/entity/Q90 -> Paris (score: 0.5597601111190518)-@-de Gaulle -> http://www.wikidata.org/entity/Q2042 -> Charles de Gaulle (score: 1.0)-@-Paris -> http://www.wikidata.org/entity/Q90 -> Paris (score: 0.5597601111190522)-@-de Gaulle -> http://www.wikidata.org/entity/Q2042 -> Charles de Gaulle (score: 1.0)-@-

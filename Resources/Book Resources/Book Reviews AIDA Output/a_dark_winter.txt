@@ -1,1 +1,0 @@
-Dave Luckett -> http://www.wikidata.org/entity/Q5229232 -> Dave Luckett (score: 1.0)-@-Dave Luckett -> http://www.wikidata.org/entity/Q5229232 -> Dave Luckett (score: 1.0)-@-Luckett -> null -> ? (score: null)-@-Tolkien -> http://www.wikidata.org/entity/Q892 -> J. R. R. Tolkien (score: 1.0)-@-

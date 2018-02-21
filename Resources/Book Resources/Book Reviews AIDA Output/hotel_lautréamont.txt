@@ -1,1 +1,0 @@
-Ashbery -> http://www.wikidata.org/entity/Q29418 -> John Ashbery (score: 1.0)-@-Jackson Pollock -> http://www.wikidata.org/entity/Q37571 -> Jackson Pollock (score: 0.9962588874430861)-@-Paris -> http://www.wikidata.org/entity/Q90 -> Paris (score: 0.6924426512743319)-@-

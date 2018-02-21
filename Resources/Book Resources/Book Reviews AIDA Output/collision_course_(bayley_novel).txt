@@ -1,1 +1,0 @@
-England -> http://www.wikidata.org/entity/Q21 -> England (score: 0.6677371650013989)-@-South Australia -> http://www.wikidata.org/entity/Q35715 -> South Australia (score: 0.9444302262055774)-@-Christian School -> http://www.wikidata.org/entity/Q867738 -> Christian school (score: 1.0)-@-
