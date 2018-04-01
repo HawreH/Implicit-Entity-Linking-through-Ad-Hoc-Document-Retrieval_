@@ -1,7 +1,7 @@
 # Resources for Performing Implicit Entity Linking through Ad Hoc Document Retrieval
 
 # Overview
-This repository includes some of the resources gathered and codes written for performing Implicit Entity Linking through Ad Hoc Document Retrieval, whose publication is submitted to ESWC 2018.
+This repository includes some of the resources gathered and codes written for performing Implicit Entity Linking through Ad Hoc Document Retrieval.
 
 ## Neural Embedding-Based Measure of Similarity (NEMS)
 The folder named *NEMS Feature* contains the source codes-in Python- for the extraction of our proposed *Neural Embedding-based Measure of Similarity (NEMS)* feature. It also contains two *.txt* files, namely ReadMe and Requirements, which explain the execution steps and library requirements, respectively.<br>
