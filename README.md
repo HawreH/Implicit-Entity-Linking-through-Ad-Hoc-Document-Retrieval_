@@ -34,8 +34,8 @@ Last but not least, under the *Resources* folder the output of *SPARQL* queries 
 # Citation
 ```
 
-**Refernce**:
-Hawre Hosseini; Tam T. Nguyen and Ebrahim Bagheri \*Implicit Entity Linking through Ad-hoc Retrieval\*. In [IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2018)](http://asonam.cpsc.ucalgary.ca/2018/), 2018.
+<b>Refernce</b>:
+Hawre Hosseini; Tam T. Nguyen and Ebrahim Bagheri *Implicit Entity Linking through Ad-hoc Retrieval*. In [IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2018)](http://asonam.cpsc.ucalgary.ca/2018/), 2018.
 
 **Bibtex entry**:
 
