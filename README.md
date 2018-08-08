@@ -31,11 +31,11 @@ Last but not least, under the *Resources* folder the output of *SPARQL* queries 
 
 
 
+# Citation
 ```
-**Citation**
 
 **Refernce**:
-Hawre Hosseini; Tam T. Nguyen and Ebrahim Bagheri *Implicit Entity Linking through Ad-hoc Retrieval*. In [IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2018)](http://asonam.cpsc.ucalgary.ca/2018/), 2018.
+Hawre Hosseini; Tam T. Nguyen and Ebrahim Bagheri \*Implicit Entity Linking through Ad-hoc Retrieval\*. In [IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2018)](http://asonam.cpsc.ucalgary.ca/2018/), 2018.
 
 **Bibtex entry**:
 
