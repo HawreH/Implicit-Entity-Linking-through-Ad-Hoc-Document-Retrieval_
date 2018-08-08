@@ -29,4 +29,6 @@ Last but not least, under the *Resources* folder the output of *SPARQL* queries 
 'entity' \t 'DBpedia_URL<sub>1</sub>', \t , 'DBpedia_URL<sub>2</sub>', \t, ..., 'DBpedia_URL<sub>N</sub>'
 </p>
 
-
+> Citation
+>> Refernce
+>>Bibtex entry
